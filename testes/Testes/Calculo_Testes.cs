@@ -8,7 +8,8 @@ namespace Testes
         public void Somar()
         {
             int resultado = Calculo.Somar(5, 5);
-
+            
+            //Assert
             Assert.Equal(11, resultado);
         }
     }
