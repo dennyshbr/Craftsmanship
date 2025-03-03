@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craftsmanship", "Craftsmanship.csproj", "{A30B762E-EC93-4D42-984A-91C0D95EC0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes", "..\testes\Testes\Testes.csproj", "{1271D348-D4F4-4310-AF32-9FAB2BFBD911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30B762E-EC93-4D42-984A-91C0D95EC0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30B762E-EC93-4D42-984A-91C0D95EC0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30B762E-EC93-4D42-984A-91C0D95EC0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30B762E-EC93-4D42-984A-91C0D95EC0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1271D348-D4F4-4310-AF32-9FAB2BFBD911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1271D348-D4F4-4310-AF32-9FAB2BFBD911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1271D348-D4F4-4310-AF32-9FAB2BFBD911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1271D348-D4F4-4310-AF32-9FAB2BFBD911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
