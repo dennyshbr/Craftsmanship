@@ -10,7 +10,7 @@ namespace Testes
             int resultado = Calculo.Somar(5, 5);
             
             //Assert
-            Assert.Equal(11, resultado);
+            Assert.Equal(10, resultado);
         }
     }
 }
